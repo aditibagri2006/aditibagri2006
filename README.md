@@ -59,8 +59,8 @@ Full Stack Developer • Problem Solver • ML Explorer
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
 </a>
 
-<a href="https://github.com/aditibagri2006" target="blank">
-<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="30" width="30"/>
+<a href="https://www.instagram.com/_aditi.bagri?igsh=NXZleGQxOHp6YTM=" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
 </a>
 
 </p>
